@@ -1,0 +1,11 @@
+version: 0.2
+
+
+phases:
+    install:
+       runtime-versions:
+            dotnet: 3.1
+       build:
+            commands:
+                 - dotnet build -c Release ./CI_CDaws/CI_CDaws.csproj
+                 - dotnet test -c Release  ./CI_CDaws/CI_CDaws.Tests.csproj
