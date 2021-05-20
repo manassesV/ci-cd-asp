@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{CFD2F93A-D384-4580-A2FF-329FF6420418}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/ExampleTests.cs">
+    <Files>
+      <File FileName="Tests/ExampleTests.cs" Line="24" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CI-CDaws" expanded="True">
+            <Node name="Solutions Items" expanded="True" />
+            <Node name="CI-CDaws" expanded="True" />
+            <Node name="Tests" expanded="True">
+              <Node name="ExampleTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CI-CDaws" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CI-CDaws PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

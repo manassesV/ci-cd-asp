@@ -22,7 +22,6 @@ namespace Tests
 
         [Theory]
         [InlineData("https://www.google.com")]
-        [InlineData("fffaaa")]
         public void TestMalformedUri(string uri)
         {
             new Uri(uri);
